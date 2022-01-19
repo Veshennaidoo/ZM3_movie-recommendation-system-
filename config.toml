@@ -1,0 +1,16 @@
+[theme]
+
+
+primaryColor = '#f5007e'
+
+
+backgroundColor = '#14181C'
+
+
+secondaryBackgroundColor = '#b50000'
+
+# Color used for almost all text
+textColor = '#FFFFFF'
+
+
+font = "sans serif"
